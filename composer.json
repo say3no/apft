@@ -1,0 +1,12 @@
+{
+    "name": "say3no/wp_plugin",
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "say3no",
+            "email": "say3no@gmail.com"
+        }
+    ]
+}
